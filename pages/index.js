@@ -47,4 +47,4 @@ export default function Home() {
     </Layout>
   );
 }
-//stopped 1:22
+//stopped 1:42
